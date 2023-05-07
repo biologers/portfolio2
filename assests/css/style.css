@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<style type="text/css">
+body {
+	background-color: #97AFBD;
+}
+body,td,th {
+	color: #FFFFFF;
+	font-size: 24px;
+}
+</style>
+</head>
+
+<body><table width="1290" border="1">
+  <tbody>
+    <tr>
+      <td colspan="4"><img src="images/maxresdefault.jpg" alt="" width="1280" height="236" align="baseline"/></td>
+    </tr>
+    <tr>
+      <th width="290" align="center"><a href="home.html"><strong style="font-weight: 900; font-size: xx-large;">Home</strong></a></th>
+      <th width="340"><a href="aboutme.html" style="font-size: xx-large">About me</a></th>
+      <th width="216"><a href="gallery.html" style="font-size: xx-large">Gallery</a></th>
+      <th width="411"><a href="contactme.html" style="font-size: xx-large">Contact me </a></th>
+    </tr>
+    <tr align="left" valign="top">
+      <td colspan="5" align="center"><h1>&nbsp;<span style="font-family: Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, serif">HOME</span></h1>
+      <p style="font-size: x-large"><strong>I am Danazie Jeffries a 2 year student at waketech. Welcome to my web page where I will introduce myself and talk about my intrest in the field of technology.</strong> <strong>As a student in the field of technology, I have a passion for exploring and understanding the latest developments and innovations in this rapidly evolving industry. With my extensive knowledge and understanding of various technologies, I am equipped to help businesses, organizations, and individuals alike navigate the challenges and opportunities presented by the digital age. I am uniquely positioned to provide cutting-edge solutions and insights that can help individuals and organizations stay ahead of the curve in this dynamic field. Whether you need assistance with developing a new product or service, implementing the latest technology trends, or simply understanding the latest tech news I can help</strong>.</p></td>
+    </tr>
+    <tr>
+      <td height="40" colspan="4">Copy right 2023</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
